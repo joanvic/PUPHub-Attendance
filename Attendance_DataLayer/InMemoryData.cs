@@ -12,6 +12,9 @@ namespace Attendance_DataLayer
             StudentList.Add(new StudentAttendanceRecord("Nico Ampoloquio"));
             StudentList.Add(new StudentAttendanceRecord("Joanvic Vargas"));
             StudentList.Add(new StudentAttendanceRecord("Mekaila Aguila"));
+            StudentList.Add(new StudentAttendanceRecord("Nelson James Abuan"));
+            StudentList.Add(new StudentAttendanceRecord("Rose Joy Balonzo"));
+            StudentList.Add(new StudentAttendanceRecord("Laurence Lagado"));
         }
     }
 }
