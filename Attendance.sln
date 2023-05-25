@@ -5,11 +5,13 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attendance", "Attendance\Attendance.csproj", "{027DDC75-69A7-4861-AEF5-F8F4F2A6EFBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attendance_DataLayer", "Attendance_DataLayer\Attendance_DataLayer.csproj", "{9F0340B6-DDA7-4E5B-AED6-D6D3A5C1CDDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attendance_DataLayer", "Attendance_DataLayer\Attendance_DataLayer.csproj", "{9F0340B6-DDA7-4E5B-AED6-D6D3A5C1CDDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attendance_Models", "Attendance_Models\Attendance_Models.csproj", "{55F9966D-096B-4031-B8A4-13C47C5AC095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attendance_Models", "Attendance_Models\Attendance_Models.csproj", "{55F9966D-096B-4031-B8A4-13C47C5AC095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attendance_BusinessLayer", "Attendance_BusinessLayer\Attendance_BusinessLayer.csproj", "{21F61ED0-3177-408F-871F-1E557B65E493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attendance_BusinessLayer", "Attendance_BusinessLayer\Attendance_BusinessLayer.csproj", "{21F61ED0-3177-408F-871F-1E557B65E493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attendance_UserInterface", "Attendance_UserInterface\Attendance_UserInterface.csproj", "{042E76D2-5BD6-402D-8411-FE052F262607}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{21F61ED0-3177-408F-871F-1E557B65E493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21F61ED0-3177-408F-871F-1E557B65E493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21F61ED0-3177-408F-871F-1E557B65E493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E76D2-5BD6-402D-8411-FE052F262607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E76D2-5BD6-402D-8411-FE052F262607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E76D2-5BD6-402D-8411-FE052F262607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E76D2-5BD6-402D-8411-FE052F262607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
